@@ -1,5 +1,4 @@
 -- Databricks notebook source
--- Testing workflow
 CREATE DATABASE IF NOT EXISTS config;
 CREATE DATABASE IF NOT EXISTS fedw;
 CREATE DATABASE IF NOT EXISTS flat_file;
